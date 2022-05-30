@@ -1,1 +1,2 @@
 je suis un deuxième fichier
+ligne 2 deuxième fichier
